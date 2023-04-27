@@ -1,1 +1,1 @@
-# MMML-Recipe-Generation
+# Multimodal-Recipe-Generation
